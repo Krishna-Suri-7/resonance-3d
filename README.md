@@ -158,9 +158,6 @@ Visit the 2-column Sanctum Armory before your descent. Browse weapons with live 
 | **6** | **Ossuary Skull-Harp** | `$3.99 DLC` | 85 | 30% | 14.0m | 5 | *Soul Siphon:* Banishing an enemy restores **+1 Bolt & +15 HP**! |
 | **7** | **The Sovereign Voice** | `$4.99 DLC` | 150 | 50% | 16.0m | 4 | *God-King Resonance:* Deals **+50% bonus DMG (225 DMG)** to The Sovereign Echo! |
 
-### 👑 Hackathon Judge Override: Press `[U]`
-Judges can press **`[U]`** in the Armory menu to immediately trigger the **Judge Override**, unlocking all 7 weapons instantly without spending tithes!
-
 ---
 
 ## 👁 The Sovereign Echo Boss Encounter
